@@ -1,0 +1,1 @@
+const topNav = document.querySelector(".myclass")
